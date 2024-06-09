@@ -18,6 +18,10 @@
       "code",
       "soda"
     ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/chadd123/soda-pop-vs-bordered.git"
+    },
     "contributes": {
       "themes": [
         {
