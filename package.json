@@ -1,0 +1,22 @@
+{
+    "name": "soda-pop-vs-bordered",
+    "displayName": "soda-pop-vs-bordered",
+    "description": "Soda Pop VS vscode theme with borders",
+    "version": "0.0.1",
+    "engines": {
+      "vscode": "^1.90.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Soda Pop VS - Bordered",
+          "uiTheme": "vs-dark",
+          "path": "./themes/Soda Pop VS - Bordered-color-theme.json"
+        }
+      ]
+    }
+  }
+  
