@@ -1,7 +1,7 @@
 {
     "name": "soda-pop-vs-bordered",
-    "displayName": "soda-pop-vs-bordered",
-    "description": "Soda Pop VS vscode theme with borders",
+    "displayName": "Soda Pop VS - Bordered",
+    "description": "Just the same old Soda Pop VS vscode theme, but with borders to break visually break up the workspace!",
     "publisher": "Chadd-C",
     "version": "0.0.1",
     "engines": {
