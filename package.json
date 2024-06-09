@@ -3,33 +3,32 @@
     "displayName": "Soda Pop VS - Bordered",
     "description": "Just the same old Soda Pop VS vscode theme, but with borders to break visually break up the workspace!",
     "publisher": "Chadd-C",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
-      "vscode": "^1.90.0"
+        "vscode": "^1.90.0"
     },
     "categories": [
-      "Themes"
+        "Themes"
     ],
     "keywords": [
-      "vscode",
-      "theme",
-      "dark",
-      "ide",
-      "code",
-      "soda"
+        "vscode",
+        "theme",
+        "dark",
+        "ide",
+        "code",
+        "soda"
     ],
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/chadd123/soda-pop-vs-bordered.git"
+        "type": "git",
+        "url": "git+https://github.com/chadd123/soda-pop-vs-bordered.git"
     },
     "contributes": {
-      "themes": [
-        {
-          "label": "Soda Pop VS - Bordered",
-          "uiTheme": "vs-dark",
-          "path": "./themes/Soda Pop VS - Bordered-color-theme.json"
-        }
-      ]
+        "themes": [
+            {
+                "label": "Soda Pop VS - Bordered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Soda Pop VS - Bordered-color-theme.json"
+            }
+        ]
     }
-  }
-  
+}
