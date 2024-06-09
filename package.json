@@ -2,12 +2,21 @@
     "name": "soda-pop-vs-bordered",
     "displayName": "soda-pop-vs-bordered",
     "description": "Soda Pop VS vscode theme with borders",
+    "publisher": "Chadd-C",
     "version": "0.0.1",
     "engines": {
       "vscode": "^1.90.0"
     },
     "categories": [
       "Themes"
+    ],
+    "keywords": [
+      "vscode",
+      "theme",
+      "dark",
+      "ide",
+      "code",
+      "soda"
     ],
     "contributes": {
       "themes": [
