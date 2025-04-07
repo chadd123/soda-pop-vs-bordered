@@ -4,6 +4,7 @@
     "description": "Just the same old Soda Pop VS vscode theme, but with borders to break visually break up the workspace!",
     "publisher": "Chadd-C",
     "version": "0.0.5",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.90.0"
     },
