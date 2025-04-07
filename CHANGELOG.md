@@ -15,3 +15,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.4
 
 - Added border for split editor groups
+
+## 0.0.5
+
+- Softened highlighting in editor
