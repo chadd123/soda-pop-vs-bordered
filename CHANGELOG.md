@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.2
 
 - Updated readme and icon
+
+## 0.0.3
+
+- Added border for split editor groups
